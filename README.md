@@ -11,8 +11,8 @@ It works by storing all of the decided-on possible characters in one long string
 ## Here's what it looks like:
 
 ![Screenshot of the Random Password Generator](./assets/images/screencapture.png)
-### It probably looks familiar, because I didn't change the layout. ;)
+It probably looks familiar, because I didn't change the layout. ;)
 
 ## Want your own very secure and impossible-to-remember password? Here:
 
-[Live Website]()
+### [Live Website](https://chrisaeus.github.io/Random-Password-Generator/)
